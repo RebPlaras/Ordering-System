@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             case 'RX_6800':
                 $price = 25000;
                 break;
-            case 'RTX_3080':
+            case 'RTX_3060':
                 $price = 16000;
                 break;
             default:
